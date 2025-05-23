@@ -17,8 +17,13 @@ export default {
                 xxl:"1265px",
             },
             colors: {
-                background: "var(--background)",
-                foreground: "var(--foreground)",
+                textGray: '#71767b',
+                textGrayLight: '#c7e9ea',
+                borderGray: '#2f3336',
+                inputGray: '#20327',
+                iconsBlue: '#1d9bf0',
+                iconGreen: '#00ba7c',
+                iconPink: '#f91880'
             },
         },
     },
